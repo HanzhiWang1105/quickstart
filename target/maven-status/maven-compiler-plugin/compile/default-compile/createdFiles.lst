@@ -1,0 +1,8 @@
+com\bnp\flink\BatchJob.class
+com\bnp\flink\StreamingJob$2.class
+com\bnp\flink\StreamingJob$WordWithCount.class
+com\bnp\kafka\AvroProducer.class
+com\bnp\flink\AvroStreamingJob.class
+com\bnp\flink\StreamingJob.class
+com\bnp\kafka\SimpleProducer.class
+com\bnp\flink\StreamingJob$1.class
